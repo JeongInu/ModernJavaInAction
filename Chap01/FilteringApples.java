@@ -39,7 +39,7 @@ public class FilteringApples {
     for (Apple apple : inventory) {
       //apple의 color값을 가져와 green과 같은지 비교
       if ("green".equals(apple.getColor())) {
-        //같다면 채운다.?
+        //같다면 채운다.
         result.add(apple);
       }
     }
