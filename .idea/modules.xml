@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Chap02/Chap02.iml" filepath="$PROJECT_DIR$/Chap02/Chap02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ModernJavaInAction.iml" filepath="$PROJECT_DIR$/.idea/ModernJavaInAction.iml" />
     </modules>
   </component>
